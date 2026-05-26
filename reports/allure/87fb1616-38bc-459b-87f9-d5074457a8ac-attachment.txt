@@ -1,0 +1,29 @@
+True
+Sunday
+True
+Monday
+Tuesday
+Wednesday
+True
+Thursday
+Friday
+True
+Saturday
+United States
+Canada
+United Kingdom
+Germany
+France
+Australia
+Japan
+China
+Brazil
+India
+Red
+Blue
+Green
+Yellow
+Red
+White
+Green
+SDET-QA Blog
